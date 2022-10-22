@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Muş Tanıtım</title>
+        <meta name="keywords" content="Muş,güvercin" />
+        <meta name="description" content="Muş Tanıtım,muş,m,muş" />
+    </head>
+    <body>
+        <table border="1" width="1900" align="center">
+            <tr>
+                <th><a href="file:///C:/Users/saygi/Desktop/mu%C5%9F%20sayfam.html"><img src="muş.jpg" alt="muş.jpg" width="150" /></a></th>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <a href="file:///C:/Users/saygi/Desktop/mu%C5%9F%20sayfam.html" target="_blank">Ana Sayfa</a>| 
+                        <a href="file:///C:/Users/saygi/Desktop/Hakk%C4%B1m%C4%B1zda.html" target="_blank">Hakkımızda</a>|
+                        <a href=""  target="_blank">Haberler</a>|
+                        <a href=""  target="_blank">Tarihçe</a>|
+                        <a href=""  target="_blank">Turizm</a>|
+                        <a href=""  target="_blank">Lezzetlerimiz</a>|
+                    </td>
+                </tr>
