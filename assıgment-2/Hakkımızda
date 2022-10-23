@@ -1,12 +1,12 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Muş Tanıtım</title>
+        <title>Muş Tanıtım Hakkımızda</title>
         <meta name="keywords" content="Muş,güvercin" />
         <meta name="description" content="Muş Tanıtım,muş,m,muş" />
     </head>
     <body>
-        <table border="1" width="1900" align="center">
+        <table border="1" width="1900" align="left">
             <tr>
                 <th><a href="file:///C:/Users/saygi/Desktop/mu%C5%9F%20sayfam.html"><img src="muş.jpg" alt="muş.jpg" width="150" /></a></th>
                 </tr>
@@ -14,9 +14,46 @@
                     <td align="center">
                         <a href="file:///C:/Users/saygi/Desktop/mu%C5%9F%20sayfam.html" target="_blank">Ana Sayfa</a>| 
                         <a href="file:///C:/Users/saygi/Desktop/Hakk%C4%B1m%C4%B1zda.html" target="_blank">Hakkımızda</a>|
-                        <a href=""  target="_blank">Haberler</a>|
-                        <a href=""  target="_blank">Tarihçe</a>|
-                        <a href=""  target="_blank">Turizm</a>|
-                        <a href=""  target="_blank">Lezzetlerimiz</a>|
+                        <a href="file:///C:/Users/saygi/Desktop/Haberler.html"  target="_blank">Haberler</a>|
+                        <a href="file:///C:/Users/saygi/Desktop/Tarih%C3%A7e.html"  target="_blank">Tarihçe</a>|
+                        <a href="file:///C:/Users/saygi/Desktop/Turizim.html"  target="_blank">Turizm</a>|
+                        <a href="file:///C:/Users/saygi/Desktop/Lezzetlerimiz.html"  target="_blank">Lezzetlerimiz</a>|
                     </td>
                 </tr>
+                <tr>
+                    <th><h1>Hakkımızda</h1></th>
+                </tr>
+                <tr>
+                    <th align="left">
+                        <h3>Başkanımız</h3>
+                        1 Mayıs 1970’te Muş’ta doğdu. Öğrenim hayatının orta ve lise kısmını Muş İmam Hatip Lisesi'nde, lisans kısmını ise İktisat Fakültesi Kamu Yönetimi Bölümü'nde tamamladı. İlahiyat önlisans programından mezun oldu. Yüksek lisansını Muş Alparslan Üniversitesi Sosyal Bilimler Enstitüsü  Siyaset Bilimi ve Kamu Yönetim alanında yapan Asya, evli 4 çocuk babasıdır.
+<hr>
+                        <h3>Çalısma alanı</h3>                   
+                            Çalışma hayatına 1991 yılında Muş Köy Hizmetleri İl Müdürlüğü bünyesinde laborant olarak başladı. 1995 yılında Muş İl Müftülüğü’nde memur olarak devam etti. 2005 yılında Personel Şefi, 2007 yılından beri aynı kurumda Personel, İdari ve Mali İşler Şube Müdürü olarak görev yaptı. 2014-2019 yıllarında Muş Belediye Başkanlığı yaptı. 2019 yerel seçimlerinde ikinci kez seçildi.
+ <hr>
+                            <h3>ULUSLARARASI GÖREVLERİ</h3>
+                        2000, 2004, 2006, 2010 yıllarında Mekke ve Medine'de hac organizasyonunda görev yaptı.
+
+2007, 2010 Yıllarında Fransa, Almanya, İspanya ve Hollanda’da Sivil Toplum ve Devlet İlişkileri üzerinde çeşitli çalışmalarda bulundu.
+
+2013 yılında Filistinli kardeşlerimizin durumunu yerinde görmek üzere Sivil Toplum Örgütlerinden müteşekkil bir ekiple Kudüs ve diğer Filistin kentlerinde bulundu.
+<hr>
+                            <h3>FAALİYETLERİ VE İLGİ ALANLARI</h3>
+                        Uzun bir süreden beri yerel organizasyonlarda ve sendikal çalışmaların içinde bulunmaktadır.  Muş Belediyesi Kent Konseyi Yürütme Kurulu üyeliği esnasında ve sonrasında yerel yönetimler, modern belediyecilik çalışmaları, çevre ve şehircilik, toplumsal barış ve şehir kültürü alanlarında okumalar, çalışmalar yapmaktadır.
+Haziran 2008'de TÜBİTAK'ın düzenlediği  “Stratejik Yönetim" konulu çalışmaya; Mart 2009'da  “Sendikal Mücadele ve Kamuoyu” konulu çalışmalara; Nisan 2012'de DİB Denizli Eğitim Merkezinde “İnsan Kaynakları Yönetim Sistemi Eğitimi” ; Ağustos 2008 DİB Kastamonu Eğitim Merkezinde Yönetim Bilimi alanında çalışmalara katıldı.
+                    </th>
+                </tr>
+                <tr>
+                    <th align="left">
+                        <h3>MİSYON, VİZYON VE TEMEL DEĞERLER</h3>
+<hr>
+                        <h3>MİSYON</h3>
+                            Ortak akıl birlikte yönetim anlayışıyla insana değer veren, doğayla uyumlu, tarihi ve kültürel mirasları koruyan, hizmette kalite ve verimlilik odaklı çağdaş standartlarda yaşanabilir bir kent oluşturmak.
+<hr>
+                        <h3>VİZYON</h3>
+                            Çevreye, tarihe ve kültüre saygılı, altyapısıyla üstyapısıyla yaşam standartlarının yükseltmiş, yerelde kalkınmayı gerçekleştirmiş ekonomik olarak güçlü yapısıyla bölgesinde öncü bir kent olmak...                      
+                    </th>
+                </tr>
+                </table>
+                </body>
+                </html>
