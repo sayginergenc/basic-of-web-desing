@@ -12,12 +12,12 @@
                 </tr>
                 <tr>
                     <td align="center">
-                        <a href="file:///C:/Users/saygi/Desktop/mu%C5%9F%20sayfam.html" target="_blank">Ana Sayfa</a>| 
-                        <a href="file:///C:/Users/saygi/Desktop/Hakk%C4%B1m%C4%B1zda.html" target="_blank">Hakkımızda</a>|
-                        <a href="file:///C:/Users/saygi/Desktop/Haberler.html"  target="_blank">Haberler</a>|
-                        <a href="file:///C:/Users/saygi/Desktop/Tarih%C3%A7e.html"  target="_blank">Tarihçe</a>|
-                        <a href="file:///C:/Users/saygi/Desktop/Turizim.html"  target="_blank">Turizm</a>|
-                        <a href="file:///C:/Users/saygi/Desktop/Lezzetlerimiz.html"  target="_blank">Lezzetlerimiz</a>|
+                        <a href="file:///C:/Users/saygi/Desktop/mu%C5%9F%20sayfam.html" target="_self">Ana Sayfa</a>| 
+                        <a href="file:///C:/Users/saygi/Desktop/Hakk%C4%B1m%C4%B1zda.html" target="_self">Hakkımızda</a>|
+                        <a href="file:///C:/Users/saygi/Desktop/Haberler.html"  target="_self">Haberler</a>|
+                        <a href="file:///C:/Users/saygi/Desktop/Tarih%C3%A7e.html"  target="_self">Tarihçe</a>|
+                        <a href="file:///C:/Users/saygi/Desktop/Turizim.html"  target="_self">Turizm</a>|
+                        <a href="file:///C:/Users/saygi/Desktop/Lezzetlerimiz.html"  target="_self">Lezzetlerimiz</a>|
                     </td>
                 </tr>
                 <tr>
