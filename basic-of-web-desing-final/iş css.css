@@ -1,0 +1,55 @@
+body  {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(107, 107, 107);
+}
+#logo {
+    width: 150px;
+    background-color: rgb(255, 0, 0);
+    min-height: 150px;
+    margin-left: 700px;
+    margin-right: auto;
+    float: left;
+}
+#linkler {      
+    background-color: rgb(0, 0, 0);
+    min-height: 000px;
+    margin-left: 00px;
+    float: left;
+    position: absolute; top: 114px; height: 36px; width: 550px; left: 850px;
+}
+#işfoto1 {
+    position: absolute; top: 175px; height: 50px; width: 600px; left: 625px;
+    float: left;
+ }
+ #işyazı1 {
+     position: absolute; top: 160px; height: 350px; width: 600px; left: 800px;
+ }
+ #işfoto2 {
+    position: absolute; top: 350px; height: 50px; width: 600px; left: 625px;
+    float: left;
+ }
+ #işyazı2 {
+     position: absolute; top: 325px; height: 350px; width: 600px; left: 800px;
+ }
+ #işfoto3 {
+    position: absolute; top: 525px; height: 50px; width: 600px; left: 625px;
+    float: left;
+ }
+ #işyazı3 {
+     position: absolute; top: 500px; height: 350px; width: 600px; left: 800px;
+ }
+ #işfoto4 {
+    position: absolute; top: 750px; height: 50px; width: 600px; left: 625px;
+    float: left;
+ }
+ #işyazı4 {
+     position: absolute; top: 725px; height: 350px; width: 600px; left: 800px;
+ }
+ #işfoto5 {
+    position: absolute; top: 975px; height: 50px; width: 600px; left: 625px;
+    float: left;
+ }
+ #işyazı5 {
+     position: absolute; top: 950px; height: 350px; width: 600px; left: 800px;
+ }
