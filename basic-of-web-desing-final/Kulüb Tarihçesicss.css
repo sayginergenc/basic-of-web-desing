@@ -4,12 +4,12 @@ body  {
     background-color: rgb(107, 107, 107);
 }
 #logo {
-    width: 150px;
+    width: 11050px;
     background-color: rgb(255, 0, 0);
     min-height: 150px;
     margin-left: 700px;
     margin-right: auto;
-    float: right;
+    float: left;
 }
 #linkler {      
     background-color: rgb(0, 0, 0);
@@ -19,6 +19,19 @@ body  {
     position: absolute; top: 114px; height: 36px; width: 550px; left: 850px;
 }
 #tfoto1 {      
-    position: relative; top: 200px;
+    margin-top: 50px;
+    margin-left: 550px;
+    float: left;
+}
+#tyazı1 {      
+    position: absolute; top: 250px; width: 550px; height: 250px; left: 975px;
+    float: left;
+}
+#tfoto2 {      
+    position: absolute; top: 600px; width: 550; left: 1150px;
     float: right;
+}
+#tyazı2 {      
+    position: absolute; top: 600px; width: 550px; height: 250px; left: 575px;
+    float: left;
 }
