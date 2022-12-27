@@ -1,0 +1,96 @@
+body  {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+}
+#logo {
+    width: 150px;
+    background-color: rgb(255, 0, 0);
+    min-height: 150px;
+    margin-left: 700px;
+    margin-right: auto;
+    float: left;
+}
+#linkler {      
+    background-color: rgb(0, 0, 0);
+    min-height: 000px;
+    margin-left: 00px;
+    float: left;
+    position: absolute; top: 114px; height: 36px; width: 550px; left: 850px;
+}
+#tf1 {
+    position: absolute; top: 200px; left: 650px;
+
+}
+#tf2{
+    position: absolute; top: 400px; left: 650px;
+
+}
+#tf3 {
+    position: absolute; top: 600px; left: 650px;
+    
+}
+#tf4 {
+    position: absolute; top: 800px; left: 650px;
+    
+}
+#tf5 {
+    position: absolute; top: 1000px; left: 650px;
+    
+}
+#tf6 {
+    position: absolute; top: 1200px; left: 650px;
+    
+}
+#tf7 {
+    position: absolute; top: 1400px; left: 650px;
+    
+}
+#tf8 {
+    position: absolute; top: 1600px; left: 650px;
+    
+}
+#tf9 {
+    position: absolute; top: 1800px; left: 650px;
+    
+}
+#tf10 {
+    position: absolute; top: 2000px; left: 650px;
+    
+}
+#tf11 {
+    position: absolute; top: 2200px; left: 650px;
+    
+}
+#tf12 {
+    position: absolute; top: 2400px; left: 650px;
+    
+}
+#tf13 {
+    position: absolute; top: 2600px; left: 650px;
+    
+}
+#tf14 {
+    position: absolute; top: 2800px; left: 650px;
+    
+}
+#tf15 {
+    position: absolute; top: 3000px; left: 650px;
+    
+}
+#tf16 {
+    position: absolute; top: 3200px; left: 650px;
+    
+}
+#tf17 {
+    position: absolute; top: 3400px; left: 650px;
+    
+}
+#tf18 {
+    position: absolute; top: 3600px; left: 650px;
+    
+}
+#tf19 {
+    position: absolute; top: 3800px; left: 650px;
+    
+}
