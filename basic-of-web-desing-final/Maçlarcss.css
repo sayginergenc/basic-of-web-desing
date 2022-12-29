@@ -4,12 +4,13 @@ body  {
     background-color: rgb(255, 255, 255);
 }
 #logo {
-    width: 150px;
+    width: 120px;
     background-color: rgb(255, 0, 0);
     min-height: 150px;
-    margin-left: 700px;
+    margin-left: 730px;
     margin-right: auto;
-    float: left;
+    
+    
 }
 #linkler {      
     background-color: rgb(0, 0, 0);
@@ -19,7 +20,7 @@ body  {
     position: absolute; top: 114px; height: 36px; width: 550px; left: 850px;
 }
 #takım2 {
-    position: absolute; top: 114px; height: 35px; width: 550px; left: 625px;
+    position: absolute; top: 150px; height: 35px; width: 550px; left: 625px;
     float: left;
 }
 #takım3 {
@@ -35,7 +36,7 @@ body  {
     float: left;
 }
 #efest2 {
-    position: absolute; top: 114px; height: 35px; width: 550px; left: 1125px;
+    position: absolute; top: 150px; height: 35px; width: 550px; left: 1125px;
     float: left;
 }
 #efest3 {
