@@ -1,38 +1,44 @@
 body  {
     margin: 0px;
     padding: 0px;
-    background-color: rgb(107, 107, 107);
+    background-color: rgb(221, 217, 217);
 }
 #logo {
     width: 150px;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(221, 217, 217);
     min-height: 150px;
     margin-left: 700px;
     margin-right: auto;
     float: left;
 }
 #linkler {      
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(221, 217, 217);
     min-height: 000px;
     margin-left: 00px;
     float: left;
-    position: absolute; top: 114px; height: 36px; width: 550px; left: 850px;
+    position: absolute; top: 75px; height: 36px; width: 550px; left: 850px;
 }
 #foto1 {      
     background-color: rgb(255, 255, 255);
     min-height: 000px;
     margin-left: 00px;
     float: left;
-    position: absolute; top: 175px; height: 375px; width: 1100px; left: 400px;
+    position: absolute; top: 175px; height: 375px; width: 1100px; left: 500px;
 }
 #baslık1 {
     background-color: rgb(255, 255, 255);
     min-height: 000px;
     margin-left: 00px;
     float: left;
-    position: absolute; top: 550px; height: 0px; width: 1100px; left: 400px;
+    position: absolute; top: 550px; height: 0px; width: 1100px; left: 500px;
 }
 #haberfoto3 {
-overflow-y: scroll; width: 1100px; height: 425px; left: 400px;
+overflow-y: scroll; width: 1100px; height: 425px; left: 500px;
 }
+#hbölge1{
+    background-color: aliceblue;
+    position: absolute; top: 160px; height: 1800px; width: 1200px; left: 450px;                            
+            box-shadow: 0px 0px 30px black;
+        
+} 
 
