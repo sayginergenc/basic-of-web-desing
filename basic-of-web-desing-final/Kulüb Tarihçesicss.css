@@ -1,26 +1,25 @@
 body  {
     margin: 0px;
     padding: 0px;
-    background-color: rgb(107, 107, 107);
+    background-color: rgb(221, 217, 217);
 }
 #logo {
-    width: 11050px;
-    background-color: rgb(255, 0, 0);
+    width: 150px;
+    background-color: rgb(221, 217, 217);
     min-height: 150px;
     margin-left: 700px;
     margin-right: auto;
     float: left;
 }
 #linkler {      
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(221, 217, 217);
     min-height: 000px;
     margin-left: 00px;
-    float: none;
-    position: absolute; top: 114px; height: 36px; width: 550px; left: 850px;
+    float: left;
+    position: absolute; top: 75px; height: 36px; width: 550px; left: 850px;
 }
 #tfoto1 {      
-    margin-top: 50px;
-    margin-left: 550px;
+    position: absolute; top: 200px; width: 550px; height: 250px; left: 550px;
     float: left;
 }
 #tyazı1 {      
@@ -28,7 +27,7 @@ body  {
     float: left;
 }
 #tfoto2 {      
-    position: absolute; top: 600px; width: 550; left: 1150px;
+    position: absolute; top: 750px; width: 550; left: 1150px;
     float: right;
 }
 #tyazı2 {      
