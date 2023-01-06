@@ -18,6 +18,111 @@ body  {
     float: left;
     position: absolute; top: 75px; height: 36px; width: 550px; left: 850px;
 }
+#beyaz1 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 190px; left: 600px; height: 175px; width: 1000px;
+
+}
+#beyaz2 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 390px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz3 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 590px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz4 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 790px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz5 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 990px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz6 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 1190px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz7 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 1390px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz8 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 1590px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz9 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 1790px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz10 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 1990px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz11 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 2190px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz12 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 2390px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz13 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 2590px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz14 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 2790px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz15 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 2990px; left: 600px; height: 175px; width: 1000px;
+
+}
+#beyaz16 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 3190px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz17 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 3390px; left: 600px; height: 175px; width: 1000px;
+
+    
+}
+#beyaz18 {
+    background-color: rgb(255, 255, 255);
+    position: absolute; top: 3590px; left: 600px; height: 175px; width: 1000px;
+
+}
 #tf1 {
     position: absolute; top: 200px; left: 650px;
 
@@ -170,4 +275,6 @@ body  {
     position: absolute; top: 3825px; left: 850px;
     
 }
+
+
 

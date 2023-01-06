@@ -18,23 +18,55 @@ body  {
     float: left;
     position: absolute; top: 75px; height: 36px; width: 550px; left: 850px;
 }
-#foto1 {      
-    background-color: rgb(255, 255, 255);
-    min-height: 000px;
-    margin-left: 00px;
+
+
+#foto2 {      
     float: left;
-    position: absolute; top: 175px; height: 375px; width: 1100px; left: 500px;
+    position: absolute; top: 200px; height: 375px; width: 1100px; left: 600px;
 }
-#baslık1 {
-    background-color: rgb(255, 255, 255);
-    min-height: 000px;
-    margin-left: 00px;
+
+#foto3 {      
     float: left;
-    position: absolute; top: 550px; height: 0px; width: 1100px; left: 500px;
+    position: absolute; top: 00px;  left: 500px;
 }
-#hbölge1{
-    background-color: aliceblue;
-    position: absolute; top: 160px; height: 1500px; width: 1200px; left: 450px;                            
-            box-shadow: 0px 0px 30px black;
-        
-} 
+#foto4 {        
+    float: left;
+    position: absolute; top: 550px;  left: -500px;
+}
+#foto5 {      
+    float: left;
+    position: absolute; top: 0px; height: 375px; width: 1100px; left: 300px;
+}
+#foto6 {      
+    float: left;
+    position: absolute; top: 0px; height: 375px; width: 1100px; left: 325px;
+}
+#foto7 {      
+    float: left;
+    position: absolute; top: 200px;  left: -550px;
+}
+#foto8 {      
+    float: left;
+    position: absolute; top: 675px;  left: -70px;
+}
+#foto9 {      
+    float: left;
+    position: absolute; top: 0px;  left: 500px;
+}
+#foto10 {      
+    float: left;
+    position: absolute; top: 525px;  left: -500px;
+}
+#foto11 {      
+    float: left;
+    position: absolute; top: 0px;  left: 340px;
+
+}
+#foto12 {      
+    float: left;
+    position: absolute; top: 0px;  left: 340px;
+}
+#foto13 {      
+    float: left;
+    position: absolute; top: 200px;  left: -550px;
+}
