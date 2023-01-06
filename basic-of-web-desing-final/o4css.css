@@ -1,21 +1,27 @@
 body  {
     margin: 0px;
     padding: 0px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(221, 217, 217);
 }
 #logo {
-    width: 1120px;
-    background-color: rgb(255, 0, 0);
+    width: 150px;
+    background-color: rgb(221, 217, 217);
     min-height: 150px;
-    margin-left: 730px;
+    margin-left: 700px;
     margin-right: auto;
-    
-    
+    float: left;
 }
 #linkler {      
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(221, 217, 217);
     min-height: 000px;
     margin-left: 00px;
     float: left;
-    position: absolute; top: 114px; height: 36px; width: 550px; left: 850px;
+    position: absolute; top: 75px; height: 36px; width: 550px; left: 850px;
+}
+#o4{
+    position: absolute; top: 200px;   left: 550;  
+    
+
+    float: left;
+
 }
